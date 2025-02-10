@@ -7,3 +7,7 @@ class Person:
 
 p1 = Person() #instatitating the class
 p2 = Person()
+
+#now call methods
+p1.greet()
+p2.display()
