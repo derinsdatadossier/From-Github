@@ -10,4 +10,7 @@ p2 = Person()
 
 #now call methods
 p1.greet()
+p1.display()
+
+p2.greet()
 p2.display()
