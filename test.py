@@ -10,9 +10,9 @@ class Person:
 
     def greet(self):
         if self.age<80:
-            print("Hello, how are you doing?")
+            print("Hello, kindly tell me your name and how I may help you")
         else:
-            print("Hello, how do you do")
+            print("Name please and what do you need")
         self.display()
 p1 = Person() #instatitating the class
 p2 = Person()
